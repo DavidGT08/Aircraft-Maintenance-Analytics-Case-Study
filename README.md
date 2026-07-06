@@ -4,7 +4,7 @@
 
 ---
 
-# 📖 Descripción del proyecto
+#  Descripción del proyecto
 
 Este proyecto desarrolla un análisis de datos de principio a fin sobre la operación de una empresa de mantenimiento aeronáutico.
 
@@ -26,7 +26,7 @@ Para ello se desarrolló un flujo completo de trabajo que incluye:
 
 ---
 
-# 🎯 Problema de negocio
+# Problema de negocio
 
 La dirección de la empresa identificó un incremento constante en el costo laboral durante los primeros meses del año.
 
@@ -42,7 +42,7 @@ El análisis busca responder cinco preguntas clave:
 
 ---
 
-# 🗂 Modelo de datos
+# Modelo de datos
 
 El modelo representa la operación típica de una empresa de mantenimiento aeronáutico (MRO).
 
@@ -77,7 +77,7 @@ Delays
 
 ---
 
-# 🔄 Flujo del proyecto
+# Flujo del proyecto
 
 El proyecto sigue un proceso completo de analítica de datos.
 
@@ -108,11 +108,11 @@ Presentación de recomendaciones
 
 ---
 
-# 🔎 Análisis Exploratorio de Datos (EDA)
+# Análisis Exploratorio de Datos (EDA)
 
 El análisis se desarrolló sobre cuatro dimensiones principales.
 
-## 💰 Costos laborales
+## Costos laborales
 
 Se analizaron indicadores como:
 
@@ -125,7 +125,7 @@ Se analizaron indicadores como:
 
 ---
 
-## ⚙ Productividad
+## Productividad
 
 Se evaluó:
 
@@ -137,7 +137,7 @@ Se evaluó:
 
 ---
 
-## ✅ Calidad
+## Calidad
 
 Se analizaron:
 
@@ -149,7 +149,7 @@ Se analizaron:
 
 ---
 
-## ⏱ Retrasos operativos
+## Retrasos operativos
 
 Se estudiaron:
 
@@ -161,7 +161,7 @@ Se estudiaron:
 
 ---
 
-# 📊 Principales hallazgos
+# Principales hallazgos
 
 El análisis permitió identificar que el incremento del costo laboral no está relacionado con una mayor carga de trabajo, sino con ineficiencias estructurales de la operación.
 
@@ -201,7 +201,7 @@ El análisis permitió identificar que el incremento del costo laboral no está 
 
 ---
 
-# 💡 Conclusión principal
+# Conclusión principal
 
 La evidencia muestra que el crecimiento del costo laboral **no está siendo impulsado por un incremento en la demanda ni por una mejora en productividad**.
 
@@ -215,7 +215,7 @@ Los principales impulsores identificados son:
 
 ---
 
-# 📈 Dashboard Ejecutivo
+# Dashboard Ejecutivo
 
 Como resultado del análisis se desarrolló un dashboard interactivo en Power BI orientado a la toma de decisiones.
 
@@ -237,32 +237,16 @@ Incluye:
 
 ---
 
-# 🛠 Tecnologías utilizadas
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
-- Power BI
-- Git
-- GitHub
-
----
-
-# 📁 Estructura del repositorio
+# Estructura del repositorio
 
 ```text
 .
 ├── data/
-│   ├── raw/
-│   └── processed/
+│   └── cleaned/
 │
 ├── notebooks/
-│   ├── 01_entendimiento_datos.ipynb
 │   ├── 02_limpieza_preparacion.ipynb
-│   ├── 03_modelado.ipynb
 │   └── 04_eda.ipynb
 │
 ├── dashboard/
@@ -278,7 +262,7 @@ Incluye:
 
 ---
 
-# 🎯 Recomendaciones estratégicas
+# Recomendaciones estratégicas
 
 Con base en los resultados obtenidos, las principales líneas de acción para la dirección son:
 
@@ -288,27 +272,3 @@ Con base en los resultados obtenidos, las principales líneas de acción para la
 - Disminuir el retrabajo mediante acciones preventivas de calidad.
 - Fortalecer la coordinación entre Maintenance y Supply Chain.
 - Incorporar indicadores operativos que permitan monitorear los impulsores del costo y no únicamente los resultados financieros.
-
----
-
-# 🚀 Competencias demostradas
-
-Este proyecto evidencia experiencia en:
-
-- Comprensión del negocio.
-- Limpieza y preparación de datos.
-- Modelado de datos.
-- Análisis Exploratorio de Datos (EDA).
-- Análisis de causa raíz.
-- Diseño de indicadores (KPIs).
-- Desarrollo de dashboards ejecutivos.
-- Storytelling con datos.
-- Generación de recomendaciones de negocio.
-
----
-
-# 👤 Autor
-
-**David Gómez**
-
-Proyecto desarrollado como caso de estudio para demostrar el ciclo completo de un proyecto de Analítica de Datos, desde la preparación de los datos hasta la generación de recomendaciones ejecutivas basadas en evidencia.
