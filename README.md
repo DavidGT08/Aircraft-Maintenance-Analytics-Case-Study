@@ -236,7 +236,8 @@ Incluye:
 - Visualización de causas principales
 
 
-![Descripción de la imagen](images)
+![Logo Davidops Mx](images/dash1.png)
+
 
 
 
