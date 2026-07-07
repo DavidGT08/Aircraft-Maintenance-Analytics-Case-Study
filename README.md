@@ -235,6 +235,11 @@ Incluye:
 - Segmentación dinámica
 - Visualización de causas principales
 
+
+![Descripción de la imagen](images)
+
+
+
 ---
 
 
