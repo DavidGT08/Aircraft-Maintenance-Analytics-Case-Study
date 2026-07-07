@@ -239,7 +239,7 @@ Incluye:
 ![Logo Davidops Mx](images/dash1.png)
 
 
-
+![Logo Davidops Mx](images/dash2.png)
 
 ---
 
