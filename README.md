@@ -2,6 +2,12 @@
 
 > Proyecto integral de Analítica de Datos orientado a identificar los impulsores operativos del incremento en los costos laborales dentro de una organización de Mantenimiento, Reparación y Overhaul (MRO).
 
+
+![Logo Davidops Mx](images/dash1.png)
+
+
+![Logo Davidops Mx](images/dash2.png)
+
 ---
 
 #  Descripción del proyecto
@@ -236,10 +242,6 @@ Incluye:
 - Visualización de causas principales
 
 
-![Logo Davidops Mx](images/dash1.png)
-
-
-![Logo Davidops Mx](images/dash2.png)
 
 ---
 
